@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(0, 0, 0);
+    list-style-position: inside;
+    text-align:center;
+    margin: 3cm;
+    
+}
+img{
+    height: 5cm;
+    width: 5cm;
+    margin: 0,50cm;
+    border: double rgb(114, 250, 255);
+    
+}
+h1{
+    font-family:monospace;
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+h2{
+    font-family: monospace;
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+p{
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+.d{
+    color: rgb(255, 255, 255);
+}
+.s{
+    color: rgb(255, 255, 255);
+}
+.b{
+    color: rgb(255, 255, 255);
+}
+.n{
+    color: rgb(255, 254, 254);
+}
+.a{
+    color: rgb(255, 255, 255);
+}
+.color{
+    border: 5px outset rgb(255, 255, 255);
+    margin: 2px;
+    display: flex;
+    justify-content: left;
+    background-color: rgb(111, 95, 255);
+}
+.pasatiempos{
+    border: 5px outset white;
+    margin: 2px;
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(111, 95, 255);
+}
+.favoritas{
+    border: 5px outset white;
+    margin: 2px;
+    background-color: rgb(111, 95, 255);
+}
+.Sil{
+    border: 5px outset white;
+    margin: 2px;
+    background-color: rgb(111, 95, 255);
+}
+.ti{
+    border: 5px outset white;
+    margin: 20px;
+    background-color: rgb(111, 95, 255); 
+}
